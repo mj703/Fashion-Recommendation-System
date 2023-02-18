@@ -1,18 +1,8 @@
 ## 🚀Introduction
 
-### 🎉General info 
+I developed a fashion recommendation system that utilizes the power of transfer learning using ResNet-50 architecture, along with optimized K-Nearest Neighbours algorithm to deliver personalized recommendations based on user input. By performing feature extraction on a large dataset of over 45,000 images using transfer learning with ResNet-50, I was able to effectively analyze the image data. To identify the top 5 closest matches to a user's input, I implemented a similarity search approach using K-Nearest Neighbours, providing personalized fashion recommendations. The system is user-friendly and intuitive, and allows for accurate and effective analysis of image data.
 
-- Unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by the user to generate recommendations since many-a-time people see something that they are interested in and tend to look for products that are similar to that.
-
--  **We use neural networks to process the images from Fashion Product Images Dataset and the Nearest neighbour backed recommender to generate the final recommendations.**
-
-
-### ✍Purpose
-
-- Humans are inevitably drawn towards something that is visually more attractive. This tendency of humans has led to development of fashion industry over the course of time. With introduction of recommender systems in multiple domains, retail industries are coming forward with investments in latest technology to improve their business. Fashion has been in existence since centuries and will be prevalent in the coming days as well. Women are more correlated with fashion and style, and they have a larger product base to deal with making it difficult to take decisions. It has become an important aspect of life for modern families since a person is more often than not judged based on his attire. Moreover, apparel providers need their customers to explore their entire product line so they can choose what they like the most which is not possible by simply going into a cloth store.
-
-
-
+This  recommendation system showcases the versatility and power of  transfer learning, similarity search, and convolutional neural networks (CNNs), providing a solid foundation for building larger and more comprehensive recommendation systems
 
 ##   💻Recommendation Engine:Proposed Methodology 
 
